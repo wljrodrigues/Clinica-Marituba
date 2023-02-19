@@ -8,7 +8,7 @@ Este exercício tem como objetivo, criar um site com a seguinte estruturação:
 - Tabelas
 
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
+No **Menu**, ficará localizado o menu de navegação, no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
 ### Página Principal
 1. Deve ter uma imagem no **Header**.
 2. Em **Content** uma breve descrição sobre a clínica.
